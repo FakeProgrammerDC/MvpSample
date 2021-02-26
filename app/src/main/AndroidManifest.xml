@@ -2,19 +2,33 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.mvpsample">
 
+    <!-- 开启网络访问权限 -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:name=".MainApp"
         android:theme="@style/Theme.MvpSample">
-        <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <activity android:name=".ui.demo.DemoActivity"></activity>
+        <activity android:name=".ui.tasklist.TasksActivity">
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+        </activity>
+        <activity android:name=".ui.MainActivity">
+
+             <intent-filter>
+             <action android:name="android.intent.action.MAIN" />
+
+
+             <category android:name="android.intent.category.LAUNCHER" />
+             </intent-filter>
         </activity>
     </application>
 

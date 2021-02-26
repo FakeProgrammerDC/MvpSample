@@ -1,0 +1,14 @@
+
+—
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì¤“‰
+t
+java:S1450"YRemove the "mFirstLoad" field and declare it as a local variable in the relevant methods.(˜¸ì¢şÿÿÿÿ
+L
+java:S1068"6Remove this unused "mSchedulerProvider" private field.(å¹ò×
+—
+java:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ‘ƒ°
+I
+java:S1068".Remove this unused "mFirstLoad" private field.(˜¸ì¢şÿÿÿÿ
+C	java:S108.")Either remove or fill this block of code.(··–ãùÿÿÿÿ
+J
+java:S1068"4Remove this unused "mTasksRepository" private field.(†ú€
