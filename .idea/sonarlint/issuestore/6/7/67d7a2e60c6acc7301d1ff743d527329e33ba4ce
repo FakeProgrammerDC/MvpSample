@@ -1,9 +1,0 @@
-
-j
-java:S1450"URemove the "mTasks" field and declare it as a local variable in the relevant methods.(½ËV
-I
-java:S18740"3Remove this use of "getDrawable"; it is deprecated.(Õ”ÚÍ
-?
-java:S1068"*Remove this unused "mTasks" private field.(½ËV
-U
-java:S1874-"3Remove this use of "getDrawable"; it is deprecated.(Î“ûşÿÿÿÿ8¬ÿ–Õú.

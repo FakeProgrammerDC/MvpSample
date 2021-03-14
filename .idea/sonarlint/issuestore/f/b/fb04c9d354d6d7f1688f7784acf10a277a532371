@@ -1,7 +1,0 @@
-
-p
-java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÛ²½8™ÉÄü.
-n
-java:S1128"LRemove this unused import 'com.example.mvpsample.data.task.TasksDataSource'.(£Æ¢Ñüÿÿÿÿ8€‚ØÄü.
-n
-java:S1128"LRemove this unused import 'com.example.mvpsample.data.task.TasksRepository'.(‹Œ¢şÿÿÿÿ8€‚ØÄü.
